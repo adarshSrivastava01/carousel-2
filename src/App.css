@@ -14,11 +14,13 @@
 }
 
 .next {
+  transform: scale(3);
   right: 0%;
   top: 50%;
 }
 
 .prev {
+  transform: scale(3);
   left: 0%;
   top: 50%;
 }
